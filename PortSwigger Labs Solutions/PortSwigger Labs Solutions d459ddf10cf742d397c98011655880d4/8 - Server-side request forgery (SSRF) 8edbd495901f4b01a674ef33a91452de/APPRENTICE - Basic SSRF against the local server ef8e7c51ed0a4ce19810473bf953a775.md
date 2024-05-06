@@ -1,0 +1,1 @@
+# APPRENTICE - Basic SSRF against the local server

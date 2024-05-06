@@ -1,0 +1,1 @@
+# PRACTITIONER - HTTP request smuggling, confirming a CL.TE vulnerability via differential responses

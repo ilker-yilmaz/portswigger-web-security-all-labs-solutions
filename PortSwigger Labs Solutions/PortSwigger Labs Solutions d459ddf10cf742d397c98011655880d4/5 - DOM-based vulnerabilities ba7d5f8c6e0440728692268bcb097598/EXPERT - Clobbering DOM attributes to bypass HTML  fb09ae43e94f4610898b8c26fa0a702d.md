@@ -1,0 +1,1 @@
+# EXPERT - Clobbering DOM attributes to bypass HTML filters

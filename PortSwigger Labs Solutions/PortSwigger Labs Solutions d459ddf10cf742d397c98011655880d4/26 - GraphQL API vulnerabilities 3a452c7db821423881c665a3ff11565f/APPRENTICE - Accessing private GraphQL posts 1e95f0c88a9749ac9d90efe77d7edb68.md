@@ -1,0 +1,1 @@
+# APPRENTICE - Accessing private GraphQL posts

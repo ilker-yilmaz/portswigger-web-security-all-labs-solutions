@@ -1,0 +1,15 @@
+# 11 - Server-side template injection
+
+[PRACTITIONER - [Basic server-side template injection](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-basic)](11%20-%20Server-side%20template%20injection%20e693ed829e584f7695b37ef7b6be9690/PRACTITIONER%20-%20Basic%20server-side%20template%20injectio%20725baaff49fa40eebf46743af6ebd2ec.md)
+
+[PRACTITIONER - [Basic server-side template injection (code context)](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-basic-code-context)](11%20-%20Server-side%20template%20injection%20e693ed829e584f7695b37ef7b6be9690/PRACTITIONER%20-%20Basic%20server-side%20template%20injectio%20a73f9ddbc63d4256a58877681e404fdf.md)
+
+[PRACTITIONER - [Server-side template injection using documentation](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-using-documentation)](11%20-%20Server-side%20template%20injection%20e693ed829e584f7695b37ef7b6be9690/PRACTITIONER%20-%20Server-side%20template%20injection%20usin%20579256640f2e4463ae68e75d2fd5aaa4.md)
+
+[PRACTITIONER - [Server-side template injection in an unknown language with a documented exploit](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-an-unknown-language-with-a-documented-exploit)](11%20-%20Server-side%20template%20injection%20e693ed829e584f7695b37ef7b6be9690/PRACTITIONER%20-%20Server-side%20template%20injection%20in%20a%207c813e5a206d4e94885e79704407123e.md)
+
+[PRACTITIONER - [Server-side template injection with information disclosure via user-supplied objects](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-information-disclosure-via-user-supplied-objects)](11%20-%20Server-side%20template%20injection%20e693ed829e584f7695b37ef7b6be9690/PRACTITIONER%20-%20Server-side%20template%20injection%20with%2071616c63226844d9a491e35286b7a4f2.md)
+
+[EXPERT - [Server-side template injection in a sandboxed environment](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-a-sandboxed-environment)](11%20-%20Server-side%20template%20injection%20e693ed829e584f7695b37ef7b6be9690/EXPERT%20-%20Server-side%20template%20injection%20in%20a%20sandb%20e0faed0fa37e4eedba9f60eec8a2c8a5.md)
+
+[EXPERT - [Server-side template injection with a custom exploit](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-a-custom-exploit)](11%20-%20Server-side%20template%20injection%20e693ed829e584f7695b37ef7b6be9690/EXPERT%20-%20Server-side%20template%20injection%20with%20a%20cus%2093274626ad7044aca08be0a4a4b90c1e.md)

@@ -1,0 +1,1 @@
+# PRACTITIONER - SameSite Strict bypass via client-side redirect

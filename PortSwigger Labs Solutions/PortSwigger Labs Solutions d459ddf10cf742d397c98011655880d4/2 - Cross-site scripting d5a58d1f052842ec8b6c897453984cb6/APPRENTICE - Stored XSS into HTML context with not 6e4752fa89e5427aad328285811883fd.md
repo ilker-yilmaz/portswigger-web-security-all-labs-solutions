@@ -1,0 +1,1 @@
+# APPRENTICE - Stored XSS into HTML context with nothing encoded

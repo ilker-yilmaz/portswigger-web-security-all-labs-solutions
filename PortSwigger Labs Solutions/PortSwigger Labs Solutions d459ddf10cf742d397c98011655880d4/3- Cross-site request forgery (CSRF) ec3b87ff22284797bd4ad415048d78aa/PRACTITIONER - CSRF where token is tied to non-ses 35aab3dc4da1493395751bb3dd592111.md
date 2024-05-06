@@ -1,0 +1,1 @@
+# PRACTITIONER - CSRF where token is tied to non-session cookie

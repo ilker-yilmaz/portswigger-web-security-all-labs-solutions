@@ -1,0 +1,1 @@
+# APPRENTICE - Authentication bypass via information disclosure

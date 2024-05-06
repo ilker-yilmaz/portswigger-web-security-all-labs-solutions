@@ -1,0 +1,1 @@
+# PRACTITIONER - Reflected XSS with some SVG markup allowed

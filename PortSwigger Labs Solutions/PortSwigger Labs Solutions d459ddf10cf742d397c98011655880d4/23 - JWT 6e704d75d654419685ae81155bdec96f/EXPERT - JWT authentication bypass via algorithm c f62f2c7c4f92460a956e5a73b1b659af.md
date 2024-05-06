@@ -1,0 +1,1 @@
+# EXPERT - JWT authentication bypass via algorithm confusion with no exposed key

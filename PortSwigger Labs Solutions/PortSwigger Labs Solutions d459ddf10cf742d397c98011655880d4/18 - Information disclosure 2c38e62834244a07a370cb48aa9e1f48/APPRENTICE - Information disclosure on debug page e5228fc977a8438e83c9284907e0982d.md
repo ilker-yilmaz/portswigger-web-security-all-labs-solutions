@@ -1,0 +1,1 @@
+# APPRENTICE - Information disclosure on debug page

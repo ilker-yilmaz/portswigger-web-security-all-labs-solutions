@@ -1,0 +1,1 @@
+# PRACTITIONER - CSRF where token is not tied to user session

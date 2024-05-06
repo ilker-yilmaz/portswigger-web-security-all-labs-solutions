@@ -1,0 +1,1 @@
+# PRACTITIONER - Web cache poisoning via ambiguous requests

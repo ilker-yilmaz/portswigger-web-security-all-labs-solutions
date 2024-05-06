@@ -1,0 +1,1 @@
+# APPRENTICE - JWT authentication bypass via flawed signature verification

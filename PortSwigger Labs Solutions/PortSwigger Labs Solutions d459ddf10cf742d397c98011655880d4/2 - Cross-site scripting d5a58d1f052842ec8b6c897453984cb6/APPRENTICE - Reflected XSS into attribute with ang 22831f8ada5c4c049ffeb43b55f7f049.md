@@ -1,0 +1,1 @@
+# APPRENTICE - Reflected XSS into attribute with angle brackets HTML-encoded

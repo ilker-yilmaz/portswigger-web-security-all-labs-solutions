@@ -1,0 +1,1 @@
+# APPRENTICE - Unprotected admin functionality with unpredictable URL

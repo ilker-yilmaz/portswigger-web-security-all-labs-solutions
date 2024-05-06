@@ -1,0 +1,1 @@
+# PRACTITIONER - SSRF with filter bypass via open redirection vulnerability

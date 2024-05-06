@@ -1,0 +1,1 @@
+# PRACTITIONER - Bypassing GraphQL brute force protections

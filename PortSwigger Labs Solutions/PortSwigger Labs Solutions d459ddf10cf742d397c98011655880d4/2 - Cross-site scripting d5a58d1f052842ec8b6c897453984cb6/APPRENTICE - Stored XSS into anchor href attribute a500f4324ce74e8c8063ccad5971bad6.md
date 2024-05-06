@@ -1,0 +1,1 @@
+# APPRENTICE - Stored XSS into anchor href attribute with double quotes HTML-encoded

@@ -1,0 +1,1 @@
+# PRACTITIONER - DOM XSS using web messages and JSON.parse

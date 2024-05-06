@@ -1,0 +1,1 @@
+# PRACTITIONER - Client-side prototype pollution in third-party libraries

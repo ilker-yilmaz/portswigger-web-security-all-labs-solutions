@@ -1,0 +1,1 @@
+# PRACTITIONER - CSRF where Referer validation depends on header being present

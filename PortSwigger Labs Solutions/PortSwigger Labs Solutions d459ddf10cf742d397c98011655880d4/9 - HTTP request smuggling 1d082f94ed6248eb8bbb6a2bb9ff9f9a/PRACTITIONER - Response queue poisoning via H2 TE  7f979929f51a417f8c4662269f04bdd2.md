@@ -1,0 +1,1 @@
+# PRACTITIONER - Response queue poisoning via H2.TE request smuggling

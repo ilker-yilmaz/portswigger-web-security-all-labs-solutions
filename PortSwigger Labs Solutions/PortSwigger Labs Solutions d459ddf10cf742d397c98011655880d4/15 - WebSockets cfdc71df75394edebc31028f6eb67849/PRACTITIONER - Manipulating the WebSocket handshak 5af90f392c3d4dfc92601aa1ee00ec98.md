@@ -1,0 +1,1 @@
+# PRACTITIONER - Manipulating the WebSocket handshake to exploit vulnerabilities

@@ -1,0 +1,1 @@
+# PRACTITIONER - CSRF with broken Referer validation

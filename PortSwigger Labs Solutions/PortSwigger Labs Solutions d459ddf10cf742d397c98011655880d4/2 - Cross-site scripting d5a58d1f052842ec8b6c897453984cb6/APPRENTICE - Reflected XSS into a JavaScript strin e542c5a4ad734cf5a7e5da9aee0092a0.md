@@ -1,0 +1,1 @@
+# APPRENTICE - Reflected XSS into a JavaScript string with angle brackets HTML encoded

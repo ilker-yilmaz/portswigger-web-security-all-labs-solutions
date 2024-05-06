@@ -1,0 +1,1 @@
+# APPRENTICE - Web shell upload via Content-Type restriction bypass

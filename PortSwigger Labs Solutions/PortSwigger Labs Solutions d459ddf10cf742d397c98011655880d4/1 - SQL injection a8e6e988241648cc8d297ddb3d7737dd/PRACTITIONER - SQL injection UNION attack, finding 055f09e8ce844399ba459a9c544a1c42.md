@@ -1,0 +1,1 @@
+# PRACTITIONER - SQL injection UNION attack, finding a column containing text

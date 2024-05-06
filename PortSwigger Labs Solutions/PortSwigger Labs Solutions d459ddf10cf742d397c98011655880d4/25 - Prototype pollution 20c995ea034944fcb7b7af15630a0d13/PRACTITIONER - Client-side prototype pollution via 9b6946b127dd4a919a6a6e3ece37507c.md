@@ -1,0 +1,1 @@
+# PRACTITIONER - Client-side prototype pollution via browser APIs

@@ -1,0 +1,1 @@
+# APPRENTICE - Manipulating WebSocket messages to exploit vulnerabilities

@@ -1,0 +1,1 @@
+# PRACTITIONER - Blind SQL injection with conditional errors

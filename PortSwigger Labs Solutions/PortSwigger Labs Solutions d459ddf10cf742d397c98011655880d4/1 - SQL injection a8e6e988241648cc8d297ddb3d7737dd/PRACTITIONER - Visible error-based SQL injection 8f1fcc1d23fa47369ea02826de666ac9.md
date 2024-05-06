@@ -1,0 +1,1 @@
+# PRACTITIONER - Visible error-based SQL injection

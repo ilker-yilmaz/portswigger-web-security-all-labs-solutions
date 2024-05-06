@@ -1,0 +1,1 @@
+# PRACTITIONER - HTTP request smuggling, obfuscating the TE header

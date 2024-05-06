@@ -1,0 +1,1 @@
+# PRACTITIONER - DOM XSS via client-side prototype pollution

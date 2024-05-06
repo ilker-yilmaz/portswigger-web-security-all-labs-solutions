@@ -1,0 +1,1 @@
+# PRACTITIONER - File path traversal, traversal sequences stripped non-recursively

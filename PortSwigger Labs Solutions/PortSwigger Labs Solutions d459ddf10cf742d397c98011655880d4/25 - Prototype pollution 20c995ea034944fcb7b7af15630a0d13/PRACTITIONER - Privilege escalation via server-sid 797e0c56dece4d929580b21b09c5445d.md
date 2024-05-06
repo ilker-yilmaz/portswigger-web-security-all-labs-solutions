@@ -1,0 +1,1 @@
+# PRACTITIONER - Privilege escalation via server-side prototype pollution

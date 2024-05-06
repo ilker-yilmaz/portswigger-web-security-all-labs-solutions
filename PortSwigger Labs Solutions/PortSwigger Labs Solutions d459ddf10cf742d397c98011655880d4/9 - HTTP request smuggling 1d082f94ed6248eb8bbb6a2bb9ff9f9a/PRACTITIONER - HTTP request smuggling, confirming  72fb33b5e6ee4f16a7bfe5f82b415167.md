@@ -1,0 +1,1 @@
+# PRACTITIONER - HTTP request smuggling, confirming a TE.CL vulnerability via differential responses

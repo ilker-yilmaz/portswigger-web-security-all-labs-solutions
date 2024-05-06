@@ -1,0 +1,1 @@
+# APPRENTICE - Authentication bypass via OAuth implicit flow

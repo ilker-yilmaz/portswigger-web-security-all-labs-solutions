@@ -1,0 +1,1 @@
+# PRACTITIONER - Cross-site WebSocket hijacking

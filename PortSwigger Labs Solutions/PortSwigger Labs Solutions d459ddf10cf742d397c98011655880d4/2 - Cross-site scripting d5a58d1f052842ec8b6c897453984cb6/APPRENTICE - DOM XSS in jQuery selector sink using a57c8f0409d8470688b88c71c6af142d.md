@@ -1,0 +1,1 @@
+# APPRENTICE - DOM XSS in jQuery selector sink using a hashchange event

@@ -1,0 +1,1 @@
+# PRACTITIONER - Infinite money logic flaw

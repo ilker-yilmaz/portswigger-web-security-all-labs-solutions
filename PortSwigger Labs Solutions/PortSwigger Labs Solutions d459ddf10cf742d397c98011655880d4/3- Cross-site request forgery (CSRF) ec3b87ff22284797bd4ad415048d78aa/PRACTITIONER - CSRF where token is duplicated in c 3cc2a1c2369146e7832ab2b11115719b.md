@@ -1,0 +1,1 @@
+# PRACTITIONER - CSRF where token is duplicated in cookie

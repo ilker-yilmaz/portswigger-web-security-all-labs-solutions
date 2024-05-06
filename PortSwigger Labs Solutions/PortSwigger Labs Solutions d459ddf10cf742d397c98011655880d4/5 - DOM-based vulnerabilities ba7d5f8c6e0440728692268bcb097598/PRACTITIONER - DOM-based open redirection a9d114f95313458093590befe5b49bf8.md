@@ -1,0 +1,1 @@
+# PRACTITIONER - DOM-based open redirection

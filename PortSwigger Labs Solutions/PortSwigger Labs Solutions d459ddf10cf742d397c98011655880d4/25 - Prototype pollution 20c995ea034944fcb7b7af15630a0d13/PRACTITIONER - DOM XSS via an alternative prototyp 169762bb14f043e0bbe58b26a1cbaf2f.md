@@ -1,0 +1,1 @@
+# PRACTITIONER - DOM XSS via an alternative prototype pollution vector

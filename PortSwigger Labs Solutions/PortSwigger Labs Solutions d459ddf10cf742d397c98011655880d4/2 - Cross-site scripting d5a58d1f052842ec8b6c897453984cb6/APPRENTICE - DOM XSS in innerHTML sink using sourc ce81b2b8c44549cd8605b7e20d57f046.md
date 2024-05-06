@@ -1,0 +1,1 @@
+# APPRENTICE - DOM XSS in innerHTML sink using source location.search

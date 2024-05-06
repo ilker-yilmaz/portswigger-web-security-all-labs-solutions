@@ -1,0 +1,1 @@
+# APPRENTICE - Username enumeration via different responses

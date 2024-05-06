@@ -1,0 +1,1 @@
+# PRACTITIONER - File path traversal, validation of file extension with null byte bypass
